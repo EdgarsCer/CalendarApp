@@ -73,3 +73,8 @@ textarea {
 main{
   text-align: center;
 }
+
+.input-field{
+  width: 100%;
+  text-align: center;
+}
